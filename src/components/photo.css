@@ -1,0 +1,23 @@
+.Photo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 400px;
+    height: 300px;
+    background-color: blanchedalmond;
+}
+body{
+    background-color:rgb(245, 190, 236);
+}
+.btn{
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    font-size: 15px;
+    border: none;
+}
+label{
+    display: flex;
+    flex-direction: row;
+}
